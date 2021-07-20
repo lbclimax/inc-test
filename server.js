@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var net = require('net');
 var id = 1 ;
 
